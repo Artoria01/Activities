@@ -23,7 +23,7 @@
     "vf"
   ],
   "iframe": true,
-  "iFrameRegExp": ".*(d-s\\.io|jilliandescribecompany\\.com|uqload\\.cx|vidhidevip\\.com|vudeo\\.ws|waaw1\\.tv|streamtape\\.(to|com)|upstream\\.to|embedwish\\.com|ups2up\\.fun|luluvdoo\\.com|tipfly\\.xyz|vidmoly\\.net|Mivalyo\\.com|hglink\\.to).*",
+  "iFrameRegExp": ".*(d-s\\.io|jilliandescribecompany\\.com|uqload\\.cx|vidhidevip\\.com|vudeo\\.ws|waaw1\\.tv|streamtape\\.(to|com)|upstream\\.to|embedwish\\.com|ups2up\\.fun|luluvdoo\\.com|luluvid\\.com|tipfly\\.xyz|vidmoly\\.net|Mivalyo\\.com|hglink\\.to).*",
   "settings": [
     {
       "id": "buttons",

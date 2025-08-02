@@ -62,7 +62,7 @@ presence.on('UpdateData', async () => {
 
     const coverImageSrc = document.querySelector<HTMLImageElement>('img[itemprop="thumbnailUrl"]')?.getAttribute('src')
     if (coverImageSrc && showCover) {
-      presenceData.largeImageKey = `${document.location.origin}${coverImageSrc}`;
+        presenceData.largeImageKey = `${document.location.origin}${coverImageSrc}`;
     }
 
     const [startTimestamp, endTimestamp] = getTimestamps(video.currentTime, video.duration)
