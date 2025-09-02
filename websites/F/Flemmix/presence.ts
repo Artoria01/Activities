@@ -1,6 +1,6 @@
 import { ActivityType, Assets, getTimestamps } from 'premid'
 
-const presence = new Presence({ clientId: '1399867497750069389' })
+const presence = new Presence({ clientId: '1399867497750069389' }) // clientId: '1410973463639756915' Artoria
 const browsingTimestamp = Math.floor(Date.now() / 1000)
 
 const ActivityAssets = {
